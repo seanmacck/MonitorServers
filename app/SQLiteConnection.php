@@ -3,6 +3,7 @@
 
 namespace App;
 use PDO;
+use PDOException;
 
 class SQLiteConnection {
 
@@ -13,14 +14,12 @@ class SQLiteConnection {
      * @return PDO
      */
     public function connect() {
-        if ($this->pdo == null) {
-            echo 'Connected to the SQLite database successfully!';
-            $this->pdo = new PDO("sqlite:" . Config::PATH_TO_SQLITE_FILE);
-        }  else
-            echo 'Whoops, could not connect to the SQLite database!';
-        return $this->pdo;
+        try {
+            return $this->pdo = new PDO("sqlite:" . Config::PATH_TO_SQLITE_FILE);
+        } catch (PDOException $e) {
+            die($e->getMessage());
+        }
     }
-
 }
 $SQLiteConnection = new SQLiteConnection();
 $SQLiteConnection->connect();
