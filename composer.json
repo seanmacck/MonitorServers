@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/app",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "seanmckinley",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "curl/curl": "^2.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}

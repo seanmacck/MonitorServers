@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="269dac59-3cad-46ee-b8f2-92570b217fde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/phpsqliteconnect/app/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rF2uiWhlm1DpBOya48q6W8CzeA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/app/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/phpsqliteconnect/app/composer.json" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerOneApi.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CodingTestTransperfect/ServerOneApi.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.ServerOneApi.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="269dac59-3cad-46ee-b8f2-92570b217fde" name="Default Changelist" comment="" />
+      <created>1618557742348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618557742348</updated>
+      <workItem from="1618557743431" duration="11731000" />
+      <workItem from="1618644802518" duration="34619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1554" y="361" key="#SQL_Dialects" timestamp="1618845879385">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1554" y="361" key="#SQL_Dialects/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618845879385" />
+    <state x="-1554" y="361" key="#SQL_Dialects/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618822604987" />
+    <state x="-1554" y="361" key="#SQL_Dialects/-1920.23.1920.1057/0.23.1920.1007@-1920.23.1920.1057" timestamp="1618735883545" />
+    <state x="-1360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618826568139">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618658275179" />
+    <state x="-1360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.1005@-1920.23.1920.1057" timestamp="1618826568139" />
+    <state x="-1360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.1007@-1920.23.1920.1057" timestamp="1618735677025" />
+    <state x="-1283" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618826503564">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1283" y="335" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618658250738" />
+    <state x="-1283" y="335" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/0.23.1920.1005@-1920.23.1920.1057" timestamp="1618826503564" />
+    <state x="-1283" y="335" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618826068889" />
+    <state x="-1283" y="335" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/0.23.1920.1007@-1920.23.1920.1057" timestamp="1618655670867" />
+    <state x="-1147" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1618571261362">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1147" y="274" key="#com.intellij.ide.util.MemberChooser/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618571261362" />
+    <state x="-1363" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1618845058550">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1363" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618732369209" />
+    <state x="-1363" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618845058550" />
+    <state x="-1363" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618571379540" />
+    <state x="-1222" y="286" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1618842610515">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1222" y="286" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1920.23.1920.1057/0.23.1920.1005@-1920.23.1920.1057" timestamp="1618842610515" />
+    <state x="-1222" y="286" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618825174004" />
+    <state x="-1191" y="444" key="ComposerInitDialogKey" timestamp="1618731707945">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1191" y="444" key="ComposerInitDialogKey/-1920.23.1920.1057/0.23.1920.1002@-1920.23.1920.1057" timestamp="1618731602959" />
+    <state x="-1191" y="444" key="ComposerInitDialogKey/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618731707945" />
+    <state width="221" height="457" key="HiddenNamespacesPopup" timestamp="1618658070611">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="221" height="457" key="HiddenNamespacesPopup/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618658070611" />
+    <state x="-1251" y="284" key="NewPhpClassDialog" timestamp="1618844973006">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1001@-1920.23.1920.1057" timestamp="1618737682428" />
+    <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1002@-1920.23.1920.1057" timestamp="1618737726561" />
+    <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618732409103" />
+    <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618844973006" />
+    <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1005@-1920.23.1920.1057" timestamp="1618829438798" />
+    <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618571349261" />
+    <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1007@-1920.23.1920.1057" timestamp="1618735242978" />
+    <state x="-1137" y="482" key="NewPhpFileDialog" timestamp="1618844030832">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1137" y="482" key="NewPhpFileDialog/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618732024032" />
+    <state x="-1137" y="482" key="NewPhpFileDialog/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618844030832" />
+    <state x="-1137" y="482" key="NewPhpFileDialog/-1920.23.1920.1057/0.23.1920.1005@-1920.23.1920.1057" timestamp="1618842382022" />
+    <state x="-1137" y="482" key="NewPhpFileDialog/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618646920992" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/functions.php</url>
+          <line>6</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\fetchAllStats" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
