@@ -11,7 +11,9 @@ require 'App/VirtualMachine.php';
 
     $query =  new QueryBuilder($pdo);
 
-    $serverData = $query->selectAll('VirtualMachine');
+    $addData = $query->addServerInfo('VirtualMachine');
+
+    //$serverData = $query->selectAll('VirtualMachine');
 
 
 

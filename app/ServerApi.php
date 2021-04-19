@@ -4,17 +4,16 @@
 use App\SQLiteConnection;
 use App\Config;
 
-class ServerApi
+class ServerApiConnector
 {
     public $api_url;
-    public $api_key;
-    public $cpuStatus;
     public $memStatus;
     public $inprogressJobs;
     public $queuedJobs;
+    public $mem;
 
 
-    public function ServerOneConnect()
+    public function ApiOneConnect()
     {
         $api_url = 'https://209.18.114.71/aiportal/v1.1/stats';
         $curl = curl_init();
@@ -26,11 +25,16 @@ class ServerApi
 
         $response = curl_exec($curl);
 
+
         $decode = json_decode($response, true); /// decodes data into JSON
+    }
+
+    public function extractData($decode, $curl)
+    {
 
         /// get server details
-        $cpuStatus = $decode['system']['cpu']; // cpu
-        $memStatus = $decode['system']['mem']; // mem
+        $cpu = $decode['system']['cpu']; // cpu
+        $mem = $decode['system']['mem']; // mem
 
         $inProgressJobs = $decode['ocr']['current-watching']; // inprogress jobs
         $queuedJobs = $decode['ocr']['current-waiting']; // queued jobs
@@ -41,7 +45,9 @@ class ServerApi
 
     }
 }
-(new ServerApi())->ServerOneConnect();
+
+(new ServerApiConnector())->ApiOneConnect();
+(new ServerApiConnector())->extractData();
 
 
 

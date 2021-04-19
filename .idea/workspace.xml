@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618557742348</updated>
       <workItem from="1618557743431" duration="11731000" />
-      <workItem from="1618644802518" duration="35719000" />
+      <workItem from="1618644802518" duration="38146000" />
     </task>
     <servers />
   </component>
@@ -136,6 +136,10 @@
     <state x="-1137" y="482" key="NewPhpFileDialog/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618844030832" />
     <state x="-1137" y="482" key="NewPhpFileDialog/-1920.23.1920.1057/0.23.1920.1005@-1920.23.1920.1057" timestamp="1618842382022" />
     <state x="-1137" y="482" key="NewPhpFileDialog/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618852273468" />
+    <state x="-1113" y="310" key="refactoring.ChangeSignatureDialog" timestamp="1618854461157">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1113" y="310" key="refactoring.ChangeSignatureDialog/-1920.23.1920.1057/0.23.1920.1002@-1920.23.1920.1057" timestamp="1618854461157" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
