@@ -7,17 +7,12 @@ class VirtualMachine
 {
     private $tableName = 'VirtualMachine'; // table name
 
-    public $id;
     public $cpu;
     public $mem;
-    public $inprogressJobs;
+    public $inProgressJobs;
     public $queuedJobs;
     public $vmIp;
     public $createdAt;
 
-
-    public function foobar()
-    {
-        return 'foobar';
-    }
 }
+

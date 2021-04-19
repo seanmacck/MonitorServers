@@ -4,13 +4,20 @@
 use App\SQLiteConnection;
 use App\Config;
 
-class ServerApiConnector
+class Server
 {
+    public $cpu;
+    public $mem;
     public $api_url;
-    public $memStatus;
     public $inprogressJobs;
     public $queuedJobs;
-    public $mem;
+
+
+    public function __construct($cpu)
+    {
+        $this->cpu = $cpu;
+
+    }
 
 
     public function ApiOneConnect()
@@ -27,10 +34,7 @@ class ServerApiConnector
 
 
         $decode = json_decode($response, true); /// decodes data into JSON
-    }
 
-    public function extractData($decode, $curl)
-    {
 
         /// get server details
         $cpu = $decode['system']['cpu']; // cpu
@@ -40,14 +44,16 @@ class ServerApiConnector
         $queuedJobs = $decode['ocr']['current-waiting']; // queued jobs
 
         //$system = $decode->system; /// system status
+        var_dump($cpu);
 
         curl_close($curl);
 
     }
 }
 
-(new ServerApiConnector())->ApiOneConnect();
-(new ServerApiConnector())->extractData();
+$serverOneConnection = new Server();
+$serverOneConnection->ApiOneConnect();
+
 
 
 

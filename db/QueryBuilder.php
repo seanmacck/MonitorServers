@@ -1,6 +1,6 @@
 <?php
 
-require 'App/ServerApi.php';
+require 'App/ServerApiConnector.php';
 
 class QueryBuilder
 {
@@ -9,7 +9,6 @@ class QueryBuilder
     public function __construct($pdo)
     {
         $this->pdo = $pdo;
-
     }
 
     function addServerInfo($table)
