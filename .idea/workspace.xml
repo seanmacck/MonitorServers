@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618557742348</updated>
       <workItem from="1618557743431" duration="11731000" />
-      <workItem from="1618644802518" duration="41686000" />
+      <workItem from="1618644802518" duration="88922000" />
     </task>
     <servers />
   </component>
@@ -76,15 +76,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1554" y="361" key="#SQL_Dialects" timestamp="1618845879385">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state x="-1554" y="342" key="#SQL_Dialects" timestamp="1618913317718">
+      <screen x="-1920" y="23" width="1920" height="997" />
     </state>
-    <state x="-1554" y="361" key="#SQL_Dialects/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618845879385" />
+    <state x="-1554" y="361" key="#SQL_Dialects/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618910919749" />
     <state x="-1554" y="361" key="#SQL_Dialects/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618822604987" />
     <state x="-1554" y="361" key="#SQL_Dialects/-1920.23.1920.1057/0.23.1920.1007@-1920.23.1920.1057" timestamp="1618735883545" />
-    <state x="-1360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618826568139">
+    <state x="-1554" y="342" key="#SQL_Dialects/-1920.23.1920.997/0.23.1920.1057@-1920.23.1920.997" timestamp="1618913317718" />
+    <state x="-1360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618922447829">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
+    <state x="-1360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.1001@-1920.23.1920.1057" timestamp="1618922447829" />
     <state x="-1360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618658275179" />
     <state x="-1360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.1005@-1920.23.1920.1057" timestamp="1618826568139" />
     <state x="-1360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.1007@-1920.23.1920.1057" timestamp="1618735677025" />
@@ -99,15 +101,20 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1147" y="274" key="#com.intellij.ide.util.MemberChooser/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618571261362" />
-    <state x="-1363" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1618845058550">
+    <state x="-1363" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1618906271526">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1363" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618732369209" />
-    <state x="-1363" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618845058550" />
+    <state x="-1363" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618906271526" />
     <state x="-1363" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618571379540" />
-    <state x="-1222" y="286" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1618842610515">
+    <state x="-1222" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618910957107">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
+    <state x="-1222" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618910957107" />
+    <state x="-1222" y="286" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1618937182835">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1222" y="286" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1920.23.1920.1057/0.23.1920.1002@-1920.23.1920.1057" timestamp="1618937182835" />
     <state x="-1222" y="286" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1920.23.1920.1057/0.23.1920.1005@-1920.23.1920.1057" timestamp="1618842610515" />
     <state x="-1222" y="286" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618825174004" />
     <state x="-1191" y="444" key="ComposerInitDialogKey" timestamp="1618731707945">
@@ -119,13 +126,13 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state width="221" height="457" key="HiddenNamespacesPopup/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618658070611" />
-    <state x="-1251" y="284" key="NewPhpClassDialog" timestamp="1618844973006">
+    <state x="-1251" y="284" key="NewPhpClassDialog" timestamp="1618906490888">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1001@-1920.23.1920.1057" timestamp="1618737682428" />
     <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1002@-1920.23.1920.1057" timestamp="1618737726561" />
     <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618732409103" />
-    <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618844973006" />
+    <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618906490888" />
     <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1005@-1920.23.1920.1057" timestamp="1618829438798" />
     <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618571349261" />
     <state x="-1251" y="284" key="NewPhpClassDialog/-1920.23.1920.1057/0.23.1920.1007@-1920.23.1920.1057" timestamp="1618735242978" />
@@ -136,24 +143,15 @@
     <state x="-1137" y="482" key="NewPhpFileDialog/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618844030832" />
     <state x="-1137" y="482" key="NewPhpFileDialog/-1920.23.1920.1057/0.23.1920.1005@-1920.23.1920.1057" timestamp="1618842382022" />
     <state x="-1137" y="482" key="NewPhpFileDialog/-1920.23.1920.1057/0.23.1920.1006@-1920.23.1920.1057" timestamp="1618852273468" />
-    <state x="-1113" y="310" key="refactoring.ChangeSignatureDialog" timestamp="1618854461157">
+    <state x="-1113" y="310" key="refactoring.ChangeSignatureDialog" timestamp="1618950447512">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state x="-1113" y="310" key="refactoring.ChangeSignatureDialog/-1920.23.1920.1057/0.23.1920.1002@-1920.23.1920.1057" timestamp="1618854461157" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php-line-method">
-          <url>file://$PROJECT_DIR$/functions.php</url>
-          <line>6</line>
-          <properties>
-            <option name="className" value="" />
-            <option name="methodName" value="\fetchAllStats" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="-1113" y="310" key="refactoring.ChangeSignatureDialog/-1920.23.1920.1057/0.23.1920.1002@-1920.23.1920.1057" timestamp="1618936090646" />
+    <state x="-1113" y="310" key="refactoring.ChangeSignatureDialog/-1920.23.1920.1057/0.23.1920.1003@-1920.23.1920.1057" timestamp="1618950447512" />
+    <state x="-1113" y="294" key="refactoring.ChangeSignatureDialog/-1920.23.1920.997/0.23.1920.1057@-1920.23.1920.997" timestamp="1618913441793" />
+    <state x="-1295" y="243" width="670" height="676" key="search.everywhere.popup" timestamp="1618910708567">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1295" y="243" width="670" height="676" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1920.1004@-1920.23.1920.1057" timestamp="1618910708567" />
   </component>
 </project>

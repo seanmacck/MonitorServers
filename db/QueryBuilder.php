@@ -1,6 +1,6 @@
 <?php
 
-require 'App/ServerApiConnector.php';
+require 'App/DataExtractor.php';
 
 class QueryBuilder
 {
@@ -15,6 +15,7 @@ class QueryBuilder
     {
         $queryInsert = $this->pdo->exec("INSERT INTO VirtualMachine (cpu, mem) VALUES ()");
         var_dump($queryInsert);
+        return $this;
     }
     function selectAll($table)
     {
@@ -22,5 +23,6 @@ class QueryBuilder
         $statement->execute();
         $serverStats = $statement->fetchAll(PDO::FETCH_CLASS);
         var_dump($serverStats);
+        return $this;
     }
 }
